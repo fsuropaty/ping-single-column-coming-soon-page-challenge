@@ -40,8 +40,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontendmentor.io](https://your-solution-url.com)
-- Live Site URL: [fsuropaty.github.io](https://your-live-site-url.com)
+- Solution URL: [Frontendmentor.io](https://www.frontendmentor.io/solutions/ping-single-column-coming-soon-page-using-html-css-js-Odi6HjHkzM)
+- Live Site URL: [fsuropaty.github.io](https://fsuropaty.github.io/ping-single-column-coming-soon-page-challenge/)
 
 ## My process
 
